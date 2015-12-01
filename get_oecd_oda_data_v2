@@ -1,3 +1,4 @@
+#See https://github.com/expersso/oecd on how to use OECD library
 install.packages("devtools")
 library(devtools)
 install_github("expersso/OECD")
